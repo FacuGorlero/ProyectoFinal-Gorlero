@@ -1,0 +1,33 @@
+[
+{
+    "id": "remera-01",
+    "titulo": "remera 1",
+    "imagen": "./imagenes/ropa 1.jpg",
+    "categoria": {
+        "id": "remera",
+        "nombre":"Remeras"
+    },
+    "precio": "3000"
+},
+{
+    "id": "buzo-01",
+    "titulo": "buzo 1",
+    "imagen": "./imagenes/ropa 3.jpg",
+    "categoria": {
+        "id": "Buzo",
+        "nombre":"Buzos"
+    },
+    "precio": "7000"
+},
+{
+    "id": "pantalon-01",
+    "titulo": "pantalon 1",
+    "imagen": "./imagenes/ropa 2.jpg",
+    "categoria": {
+        "id": "Pantalon",
+        "nombre":"Pantalones"
+    },
+    "precio": "14000"
+}
+
+]
